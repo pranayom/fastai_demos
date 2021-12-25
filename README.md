@@ -1,4 +1,4 @@
-This is a implementation of CHapter 2 of the fastai module. There, it was done using bears. I have replicated the same using Rock Papers Scissors dataset from Kaggle.
+This is a implementation of Chapter 2 of the fastai module. There, it was done using bears. I have replicated the same using Rock Papers Scissors dataset from Kaggle.
 
 Dataset link - https://www.kaggle.com/drgfreeman/rockpaperscissors
 
